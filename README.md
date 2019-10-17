@@ -1,7 +1,36 @@
-# NPSP-Data-Importer-Documentation
+# Project Name
+NPSP-Data-Importer/Batch Data Entry Documentation
+
+# Project Desription
 Review and revise the HTML documentation to better communicate the who, what, where and why of the NPSP Data Importer and its related components. Supplement other resources
 
-Goals
-1. Identify and evaluate which pages should be deleted and which should be revised. Check with .Org team for their list.
+# Project Goals
+1. Support the .Org team to identify and evaluate which pages should be deleted and which should be revised.
 2. Work with NPSP videography to create a cohesive introductory path that makes importing into the NPSP data more understandable.
-3. Pick 3 to 5 critical help documentation and make drafts to review; incorporate graphics or visuals if useful.
+3. Plug gaps in documentation to improve between 
+
+# Project Audience
+Admins and .Org Partners
+
+# Project Documentation
+[Link to wiki]
+
+# Project Team
+
+# Project Accomplishments
+
+# Project Team Accomplishments
+TBD
+
+# Contributing
+See the Issues tab for open enhancements. Feel free to add additional suggestions and use cases!
+
+# Project Roadmap
+TBD
+
+
+
+
+
+
+
