@@ -4,9 +4,9 @@ NPSP-Data-Importer Documentation Focus Group
 ## Project Desription
 Help the review and revise the HTML documentation to better communicate to the right audience with the right content.
 
-# Note: This project is, in actuality, a focus grou pthat will be working outside of the sprinty! Most of the documentation and work production will be stored outside this repo.
+###### Note: This project is, in actuality, a focus grou pthat will be working outside of the sprinty! Most of the documentation and work production will be stored outside this repo.
 
-# Want to work with us? If you know the NPSP Data Importer, importing data and want to contribute, please reach out to Melissa Barber at mbarber@salesforce.com who is heading up the focus group.
+###### Want to work with us? If you know the NPSP Data Importer, importing data and want to contribute, please reach out to Melissa Barber at mbarber@salesforce.com who is heading up the focus group.
 
 ## Project Goals (in process!)
 1. Support the .Org team to identify and evaluate which pages should be deleted and which should be revised.
