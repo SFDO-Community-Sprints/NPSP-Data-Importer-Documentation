@@ -1,31 +1,33 @@
 ## Project Name
-NPSP-Data-Importer/Batch Data Entry Documentation
+NPSP-Data-Importer Documentation Focus Group
 
 ## Project Desription
-Review and revise the HTML documentation to better communicate the who, what, where and why of the NPSP Data Importer and its related components. Supplement other resources
+Help the review and revise the HTML documentation to better communicate to the right audience with the right content.
+
+### Note: This project is, in actuality, a focus grou pthat will be working outside of the sprinty! Most of the documentation and work production will be stored outside this repo.
+
+### Want to work with us? If you know the NPSP Data Importer, importing data and want to contribute, please reach out to Melissa Barber at mbarber@salesforce.com who is heading up the focus group.
 
 ## Project Goals (in process!)
 1. Support the .Org team to identify and evaluate which pages should be deleted and which should be revised.
-2. Work with NPSP videography to create a cohesive introductory path that makes importing into the NPSP data more understandable.
-3. Plug gaps in documentation to improve the understanding of all the high level components.
-4. Explain the difference between ETL tools, NPSP tools and NPSP objects at a high level
+2. Plug gaps in documentation to improve the understanding of all the high level components.
+3. Explain the difference between ETL tools, NPSP tools and NPSP objects at a high level
 
 ## Project Audience
 Admins and .Org Partners
 
 ## Project Documentation
-[Link to wiki]
+N/A
 
-## Project Team
+## Project Team (at the Philly Sprint)
+Sarah Amin, TJ Warfield, Ryan Berens
 
 ## Project Accomplishments
-
-## Project Team Accomplishments
-TBD
+Help get the focus group started!
 
 ## Contributing
-See the Issues tab for open enhancements. Feel free to add additional suggestions and use cases!
+Again, please email Melissa Barber at mbarber@salesforce.com or find on the Power of Us Hub!
 
 ## Project Roadmap
-TBD
+Grow the focus group and engage the community in crafting the best documentation
 
